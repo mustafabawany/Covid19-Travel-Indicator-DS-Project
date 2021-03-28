@@ -13,9 +13,9 @@ In today’s world when the world is being surrounded by the fear of Covid 19 an
 4. Covid-19 Checker: Check through symptoms whether a person have covid19.
 
 # TOOLS AND TECHNOLOGIES
-Programming Language: C++.
-IDE: Microsoft Visual Studio Code, Dev C++.
-Compiler: MinGW for C++.
+* Programming Language: C++.
+* IDE: Microsoft Visual Studio Code, Dev C++.
+* Compiler: MinGW for C++.
 
 # SYSTEM AND DEEP LEARNING
 The system we will be designing is directly linked to a deep learning process. System fetch the datasets available for the Covid 19 across the globe and upon the basis of main algorithms of deep Learning that are:
